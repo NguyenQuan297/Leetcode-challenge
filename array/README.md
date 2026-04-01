@@ -15,3 +15,4 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 26 | Remove Duplicates from Sorted Array | [problem26/](problem26/) |
 | 27 | Remove Element | [problem27/](problem27/) |
 | 31 | Next Permutation | [problem31/](problem31/) |
+| 33 | Search in Rotated Sorted Array | [problem33/](problem33/) |
