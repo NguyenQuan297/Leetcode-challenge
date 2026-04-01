@@ -8,7 +8,8 @@ Solutions grouped by **topic**. Each problem lives in its own folder with statem
 Leetcode_challenge/
 ├── array/                 # Array problems
 │   ├── problem4/          # 4. Median of Two Sorted Arrays
-│   └── problem11/         # 11. Container With Most Water
+│   ├── problem11/         # 11. Container With Most Water
+│   └── problem14/         # 14. Longest Common Prefix
 ├── <other-topic>/         # e.g. tree, graph, … (add as you go)
 │   └── ...
 └── .gitignore
@@ -18,4 +19,4 @@ Leetcode_challenge/
 
 | Topic | Problems |
 |-------|----------|
-| [array](array/) | [4 — Median of Two Sorted Arrays](array/problem4/) · [11 — Container With Most Water](array/problem11/) |
+| [array](array/) | [4](array/problem4/) · [11](array/problem11/) · [14](array/problem14/) |
