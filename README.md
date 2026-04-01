@@ -7,10 +7,8 @@ Solutions grouped by **topic**. Each problem lives in its own folder with statem
 ```text
 Leetcode_challenge/
 ├── array/                 # Array problems
-│   └── problem4/          # 4. Median of Two Sorted Arrays
-│       ├── README.md
-│       ├── problem4.py
-│       └── problem4.cpp
+│   ├── problem4/          # 4. Median of Two Sorted Arrays
+│   └── problem11/         # 11. Container With Most Water
 ├── <other-topic>/         # e.g. tree, graph, … (add as you go)
 │   └── ...
 └── .gitignore
@@ -20,4 +18,4 @@ Leetcode_challenge/
 
 | Topic | Problems |
 |-------|----------|
-| [array](array/) | [Problem 4 — Median of Two Sorted Arrays](array/problem4/) |
+| [array](array/) | [4 — Median of Two Sorted Arrays](array/problem4/) · [11 — Container With Most Water](array/problem11/) |
