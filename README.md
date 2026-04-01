@@ -1,20 +1,14 @@
-# Hi, I am Quan Nguyen
+# Hi, I'm Quan Nguyen
 
-Welcome to my LeetCode journey.
+I'm currently grinding my way toward becoming a software engineer.
 
-I am a student who is about to graduate, and I am preparing myself for my first full-time software engineering job.  
-This repository is my personal challenge: solve many LeetCode problems with high efficiency, clear thinking, and steady improvement.
+This repo is basically my LeetCode journey - but not just solving for AC.  
+I'm trying to actually understand what's going on under the hood and build a solid way of thinking.
 
-I treat each problem as more than just "getting Accepted."  
-My goal is to build a scientific problem-solving mindset:
+I like to take problems seriously: break them down, think about constraints, pick the right approach, and keep the code clean. Not perfect, but better each time.
 
-- understand constraints first,
-- choose data structures and algorithms intentionally,
-- analyze time and space complexity,
-- and write clean, maintainable code in both Python and C++.
+Sometimes I revisit old solutions when I realize there's a smarter way to do things. That's part of the process.
 
-While doing this, I keep learning and updating old solutions whenever I discover a better approach.  
-I believe growth in programming comes from repetition, reflection, and curiosity.
+Nothing fancy here - just consistent work and slow improvement.
 
-Thank you for visiting my practice space.  
-If you are also preparing for interviews or trying to become better at problem solving, I hope this repo can give you motivation.
+If you're doing the same, we're in this together.
