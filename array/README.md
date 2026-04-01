@@ -11,3 +11,4 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 14 | Longest Common Prefix | [problem14/](problem14/) |
 | 15 | 3Sum | [problem15/](problem15/) |
 | 16 | 3Sum Closest | [problem16/](problem16/) |
+| 18 | 4Sum | [problem18/](problem18/) |
