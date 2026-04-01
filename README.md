@@ -6,4 +6,4 @@ Solutions grouped by **topic**. Each problem lives in its own folder with statem
 
 | Topic | Problems |
 |-------|----------|
-| [array](array/) | [4](array/problem4/) Â· [11](array/problem11/) Â· [14](array/problem14/) Â· [15](array/problem15/) Â· [16](array/problem16/) Â· [18](array/problem18/) Â· [26](array/problem26/) Â· [27](array/problem27/) Â· [31](array/problem31/) Â· [33](array/problem33/) Â· [36](array/problem36/) Â· [37](array/problem37/) Â· [46](array/problem46/) |
+| [array](array/) | [4](array/problem4/) · [11](array/problem11/) · [14](array/problem14/) · [15](array/problem15/) · [16](array/problem16/) · [18](array/problem18/) · [26](array/problem26/) · [27](array/problem27/) · [31](array/problem31/) · [33](array/problem33/) · [36](array/problem36/) · [37](array/problem37/) · [46](array/problem46/) · [47](array/problem47/) · [66](array/problem66/) |
