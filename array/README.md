@@ -26,3 +26,4 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 121 | Best Time to Buy and Sell Stock | [problem121/](problem121/) |
 | 122 | Best Time to Buy and Sell Stock II | [problem122/](problem122/) |
 | 123 | Best Time to Buy and Sell Stock III | [problem123/](problem123/) |
+| 136 | Single Number | [problem136/](problem136/) |
