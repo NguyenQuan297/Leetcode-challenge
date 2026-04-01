@@ -18,3 +18,4 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 33 | Search in Rotated Sorted Array | [problem33/](problem33/) |
 | 36 | Valid Sudoku | [problem36/](problem36/) |
 | 37 | Sudoku Solver | [problem37/](problem37/) |
+| 46 | Permutations | [problem46/](problem46/) |
