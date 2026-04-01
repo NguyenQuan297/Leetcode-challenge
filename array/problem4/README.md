@@ -1,6 +1,6 @@
 # 4. Median of Two Sorted Arrays
 
-**Difficulty:** Hard
+**Topic:** [Array](../) · **Difficulty:** Hard
 
 ## Description
 
