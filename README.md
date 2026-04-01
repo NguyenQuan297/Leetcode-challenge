@@ -1,10 +1,20 @@
-# Leetcode Challenge
+# Hi, I am Quan Nguyen
 
-Solutions grouped by **topic**. Each problem lives in its own folder with statement (`README.md`) and code (e.g. `.py`, `.cpp`).
+Welcome to my LeetCode journey.
 
-## Topics
+I am a student who is about to graduate, and I am preparing myself for my first full-time software engineering job.  
+This repository is my personal challenge: solve many LeetCode problems with high efficiency, clear thinking, and steady improvement.
 
-| Topic | Problems |
-|-------|----------|
-| [array](array/) | [4](array/problem4/) - [11](array/problem11/) - [14](array/problem14/) - [15](array/problem15/) - [16](array/problem16/) - [18](array/problem18/) - [26](array/problem26/) - [27](array/problem27/) - [31](array/problem31/) - [33](array/problem33/) - [36](array/problem36/) - [37](array/problem37/) - [46](array/problem46/) - [47](array/problem47/) - [66](array/problem66/) - [80](array/problem80/) - [88](array/problem88/) - [121](array/problem121/) - [122](array/problem122/) - [123](array/problem123/) - [136](array/problem136/) - [137](array/problem137/) - [153](array/problem153/) - [154](array/problem154/) |
-| [sorting](sorting/) | [49](sorting/problem49/) |
+I treat each problem as more than just "getting Accepted."  
+My goal is to build a scientific problem-solving mindset:
+
+- understand constraints first,
+- choose data structures and algorithms intentionally,
+- analyze time and space complexity,
+- and write clean, maintainable code in both Python and C++.
+
+While doing this, I keep learning and updating old solutions whenever I discover a better approach.  
+I believe growth in programming comes from repetition, reflection, and curiosity.
+
+Thank you for visiting my practice space.  
+If you are also preparing for interviews or trying to become better at problem solving, I hope this repo can give you motivation.
