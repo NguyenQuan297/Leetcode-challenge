@@ -17,5 +17,5 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 31 | Next Permutation | [problem31/](problem31/) |
 | 33 | Search in Rotated Sorted Array | [problem33/](problem33/) |
 | 36 | Valid Sudoku | [problem36/](problem36/) |
-| 37 | Sudoku Solver | [problem37/](problem37/) |
+| 37 | Sudoku Solver | [problem37/](problem37/) |`n| 46 | Permutations | [problem46/](problem46/) |`n| 47 | Permutations II | [problem47/](problem47/) |
 | 46 | Permutations | [problem46/](problem46/) |
