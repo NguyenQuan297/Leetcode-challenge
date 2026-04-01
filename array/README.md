@@ -13,3 +13,4 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 16 | 3Sum Closest | [problem16/](problem16/) |
 | 18 | 4Sum | [problem18/](problem18/) |
 | 26 | Remove Duplicates from Sorted Array | [problem26/](problem26/) |
+| 27 | Remove Element | [problem27/](problem27/) |
