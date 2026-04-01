@@ -23,3 +23,4 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 66 | Plus One | [problem66/](problem66/) |
 | 80 | Remove Duplicates from Sorted Array II | [problem80/](problem80/) |
 | 88 | Merge Sorted Array | [problem88/](problem88/) |
+| 121 | Best Time to Buy and Sell Stock | [problem121/](problem121/) |
