@@ -21,3 +21,4 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 46 | Permutations | [problem46/](problem46/) |
 | 47 | Permutations II | [problem47/](problem47/) |
 | 66 | Plus One | [problem66/](problem66/) |
+| 88 | Merge Sorted Array | [problem88/](problem88/) |
