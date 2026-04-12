@@ -12,3 +12,4 @@ LeetCode problems on **binary trees** (traversals, structure, paths, etc.).
 | 98 | Validate Binary Search Tree | [problem98/](problem98/) |
 | 99 | Recover Binary Search Tree | [problem99/](problem99/) |
 | 100 | Same Tree | [problem100/](problem100/) |
+| 101 | Symmetric Tree | [problem101/](problem101/) |
