@@ -15,3 +15,4 @@ LeetCode problems on **binary trees** (traversals, structure, paths, etc.).
 | 101 | Symmetric Tree | [problem101/](problem101/) |
 | 102 | Binary Tree Level Order Traversal | [problem102/](problem102/) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [problem103/](problem103/) |
+| 104 | Maximum Depth of Binary Tree | [problem104/](problem104/) |
