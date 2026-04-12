@@ -15,7 +15,8 @@ struct TreeNode {
 };
 #endif
 
-class Solution {public:
+class Solution {
+public:
     vector<int> inorderTraversal(TreeNode *root) {
         // Iterative inorder (Left -> Root -> Right): descend left pushing nodes, then pop, visit, go right.
         vector<int> res;

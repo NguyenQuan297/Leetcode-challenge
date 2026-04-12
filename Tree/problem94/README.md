@@ -40,4 +40,4 @@ A recursive solution is straightforward. This folder uses an **iterative** inord
 ## Files in this folder
 
 - `problem94.py` — Python solution (iterative)
-- `problem94.cpp` — C++ solution (iterative). `TreeNode` is only defined when compiling with `-DLOCAL_JUDGE` (so LeetCode’s own `TreeNode` is not redefined). Local check: `g++ -std=c++17 -DLOCAL_JUDGE -c problem94.cpp`.
+- `problem94.cpp` — C++ solution (iterative). `TreeNode` is only defined when compiling with `-DLOCAL_JUDGE` (so LeetCode’s own `TreeNode` is not redefined). For the IDE: root `.clangd` adds `-DLOCAL_JUDGE` for `Tree/**/*.cpp`; `.vscode/c_cpp_properties.json` defines `LOCAL_JUDGE` for IntelliSense. Local check: `g++ -std=c++17 -DLOCAL_JUDGE -c problem94.cpp`.

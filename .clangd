@@ -1,0 +1,7 @@
+# So Tree/*.cpp IntelliSense sees TreeNode under #ifdef LOCAL_JUDGE (LeetCode does not define it).
+If:
+  PathMatch: .*/Tree/.*\.cpp
+CompileFlags:
+  Add:
+    - -std=c++17
+    - -DLOCAL_JUDGE
