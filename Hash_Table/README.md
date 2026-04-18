@@ -14,4 +14,5 @@ LeetCode problems that use **hash maps / hash sets** (frequency tables, last-see
 | 41 | First Missing Positive | [problem41/](problem41/) |
 | 73 | Set Matrix Zeroes | [problem73/](problem73/) |
 | 76 | Minimum Window Substring | [problem76/](problem76/) |
+| 126 | Word Ladder II | [problem126/](problem126/) |
 | 127 | Word Ladder | [problem127/](problem127/) |
