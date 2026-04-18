@@ -36,7 +36,9 @@ Given an integer `num`, convert it to a Roman numeral string.
 
 ## Approach
 
-Decompose `num` into four decimal digits: thousands, hundreds, tens, and ones. For each place, use a **hash map** (digit `0`–`9` → Roman substring for that place only). Concatenate the four lookups. Each table has fixed size; lookups are **O(1)** per digit, overall **O(1)** for `num <= 3999`, space **O(1)**.
+**Greedy with a fixed ordered table:** precompute all values that can start a block (including subtractive pairs like `900 → CM`). Walk from largest to smallest; while `num >= value`, append the symbol and subtract. At most a constant number of steps for `num <= 3999`.
+
+On **CPython**, this beats four **dict** lookups per test (hashing + string work) and usually ranks faster on LeetCode than digit→fragment hash maps. Time **O(1)**, space **O(1)** for the tables plus output length.
 
 ## Files in this folder
 
