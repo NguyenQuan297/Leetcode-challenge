@@ -3,3 +3,6 @@
 .vscode/*
 !.vscode/c_cpp_properties.json
 __pycache__/
+
+# Local git hooks (do not push)
+.githooks/

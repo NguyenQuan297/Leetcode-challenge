@@ -1,6 +1,0 @@
-#!/bin/sh
-# Remove Cursor agent trailer from commit messages (safety net if IDE still appends it).
-f="$1"
-tmp="$f.tmp"
-grep -v "Made-with: Cursor" "$f" > "$tmp" && mv "$tmp" "$f"
-exit 0
