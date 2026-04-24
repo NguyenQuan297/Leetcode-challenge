@@ -9,3 +9,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | 5 | Longest Palindromic Substring | [problem5/](problem5/) |
 | 10 | Regular Expression Matching | [problem10/](problem10/) |
 | 22 | Generate Parentheses | [problem22/](problem22/) |
+| 32 | Longest Valid Parentheses | [problem32/](problem32/) |
