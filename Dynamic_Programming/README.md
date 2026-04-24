@@ -7,3 +7,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | # | Title | Folder |
 |---|--------|--------|
 | 5 | Longest Palindromic Substring | [problem5/](problem5/) |
+| 10 | Regular Expression Matching | [problem10/](problem10/) |
