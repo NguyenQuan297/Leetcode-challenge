@@ -13,3 +13,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | 42 | Trapping Rain Water | [problem42/](problem42/) |
 | 44 | Wildcard Matching | [problem44/](problem44/) |
 | 45 | Jump Game II | [problem45/](problem45/) |
+| 53 | Maximum Subarray | [problem53/](problem53/) |
