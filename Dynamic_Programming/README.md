@@ -12,3 +12,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | 32 | Longest Valid Parentheses | [problem32/](problem32/) |
 | 42 | Trapping Rain Water | [problem42/](problem42/) |
 | 44 | Wildcard Matching | [problem44/](problem44/) |
+| 45 | Jump Game II | [problem45/](problem45/) |
