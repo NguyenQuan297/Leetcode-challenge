@@ -14,3 +14,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | 44 | Wildcard Matching | [problem44/](problem44/) |
 | 45 | Jump Game II | [problem45/](problem45/) |
 | 53 | Maximum Subarray | [problem53/](problem53/) |
+| 55 | Jump Game | [problem55/](problem55/) |
