@@ -18,3 +18,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | 62 | Unique Paths | [problem62/](problem62/) |
 | 63 | Unique Paths II | [problem63/](problem63/) |
 | 64 | Minimum Path Sum | [problem64/](problem64/) |
+| 70 | Climbing Stairs | [problem70/](problem70/) |
