@@ -22,3 +22,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | 72 | Edit Distance | [problem72/](problem72/) |
 | 91 | Decode Ways | [problem91/](problem91/) |
 | 115 | Distinct Subsequences | [problem115/](problem115/) |
+| 118 | Pascal's Triangle | [problem118/](problem118/) |
