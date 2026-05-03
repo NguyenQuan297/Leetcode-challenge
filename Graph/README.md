@@ -13,3 +13,4 @@ LeetCode problems solved with **graph algorithms** (BFS, DFS, topological sort, 
 | 547 | Number of Provinces | [problem547/](problem547/) |
 | 684 | Redundant Connection | [problem684/](problem684/) |
 | 743 | Network Delay Time | [problem743/](problem743/) |
+| 785 | Is Graph Bipartite? | [problem785/](problem785/) |
