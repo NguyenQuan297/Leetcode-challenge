@@ -12,3 +12,4 @@ LeetCode problems solved with **graph algorithms** (BFS, DFS, topological sort, 
 | 399 | Evaluate Division | [problem399/](problem399/) |
 | 547 | Number of Provinces | [problem547/](problem547/) |
 | 684 | Redundant Connection | [problem684/](problem684/) |
+| 743 | Network Delay Time | [problem743/](problem743/) |
