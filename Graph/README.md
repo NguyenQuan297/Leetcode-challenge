@@ -10,3 +10,4 @@ LeetCode problems solved with **graph algorithms** (BFS, DFS, topological sort, 
 | 207 | Course Schedule | [problem207/](problem207/) |
 | 210 | Course Schedule II | [problem210/](problem210/) |
 | 399 | Evaluate Division | [problem399/](problem399/) |
+| 547 | Number of Provinces | [problem547/](problem547/) |
