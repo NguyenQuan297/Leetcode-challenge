@@ -31,5 +31,6 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 136 | Single Number | [problem136/](problem136/) |
 | 137 | Single Number II | [problem137/](problem137/) |
 | 150 | Evaluate Reverse Polish Notation | [problem150/](problem150/) |
+| 152 | Maximum Product Subarray | [problem152/](problem152/) |
 | 153 | Find Minimum in Rotated Sorted Array | [problem153/](problem153/) |
 | 154 | Find Minimum in Rotated Sorted Array II | [problem154/](problem154/) |
