@@ -16,6 +16,7 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 27 | Remove Element | [problem27/](problem27/) |
 | 31 | Next Permutation | [problem31/](problem31/) |
 | 39 | Combination Sum | [problem39/](problem39/) |
+| 40 | Combination Sum II | [problem40/](problem40/) |
 | 33 | Search in Rotated Sorted Array | [problem33/](problem33/) |
 | 36 | Valid Sudoku | [problem36/](problem36/) |
 | 37 | Sudoku Solver | [problem37/](problem37/) |
