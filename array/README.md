@@ -21,6 +21,7 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 36 | Valid Sudoku | [problem36/](problem36/) |
 | 37 | Sudoku Solver | [problem37/](problem37/) |
 | 46 | Permutations | [problem46/](problem46/) |
+| 51 | N-Queens | [problem51/](problem51/) |
 | 47 | Permutations II | [problem47/](problem47/) |
 | 66 | Plus One | [problem66/](problem66/) |
 | 80 | Remove Duplicates from Sorted Array II | [problem80/](problem80/) |
