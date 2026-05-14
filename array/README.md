@@ -28,6 +28,7 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 84 | Largest Rectangle in Histogram | [problem84/](problem84/) |
 | 85 | Maximal Rectangle | [problem85/](problem85/) |
 | 88 | Merge Sorted Array | [problem88/](problem88/) |
+| 90 | Subsets II | [problem90/](problem90/) |
 | 121 | Best Time to Buy and Sell Stock | [problem121/](problem121/) |
 | 122 | Best Time to Buy and Sell Stock II | [problem122/](problem122/) |
 | 123 | Best Time to Buy and Sell Stock III | [problem123/](problem123/) |
