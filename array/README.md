@@ -27,6 +27,7 @@ LeetCode problems tagged with **array** (sorted / two pointers / binary search o
 | 80 | Remove Duplicates from Sorted Array II | [problem80/](problem80/) |
 | 84 | Largest Rectangle in Histogram | [problem84/](problem84/) |
 | 85 | Maximal Rectangle | [problem85/](problem85/) |
+| 86 | Partition List | [problem86/](problem86/) |
 | 88 | Merge Sorted Array | [problem88/](problem88/) |
 | 90 | Subsets II | [problem90/](problem90/) |
 | 121 | Best Time to Buy and Sell Stock | [problem121/](problem121/) |
