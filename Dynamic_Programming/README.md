@@ -23,3 +23,4 @@ LeetCode problems solved with **dynamic programming** (optimal substructure, ove
 | 91 | Decode Ways | [problem91/](problem91/) |
 | 115 | Distinct Subsequences | [problem115/](problem115/) |
 | 118 | Pascal's Triangle | [problem118/](problem118/) |
+| 131 | Palindrome Partitioning | [problem131/](problem131/) |
